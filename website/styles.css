@@ -20,3 +20,21 @@
     position: relative;
     bottom: 15px;
 }
+
+a:link, a:visited{
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid brown;
+    color: black;
+    display:block;
+    width: 200px;
+    text-align: left;
+    margin-bottom: 1px;
+    
+}
+a:hover, a:active{
+    background-color: red;
+    color:purple;
+
+}
+
