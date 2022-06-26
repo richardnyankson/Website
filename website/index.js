@@ -1,4 +1,4 @@
 function hello(){
-  alert("Hi,welcome to my profile");
+  alert("Hi, welcome to my profile");
 }
 hello();

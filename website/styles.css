@@ -1,1 +1,22 @@
-
+.intro {
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    color: red;
+    text-align: center;
+    background-color: rgba(45, 45, 45, 0.1);
+    
+}
+.background-color {
+    background-color: rgba(45, 45, 45, 0.1);
+    font-size: x-large;
+    
+}
+.edit {
+    border-radius: 100px;
+}
+.body {
+    background-color: antiquewhite;
+}
+.achieve {
+    position: relative;
+    bottom: 15px;
+}
