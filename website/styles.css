@@ -1,8 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:chocolate;
+}
 .intro {
     font-family: "Times New Roman", Helvetica, sans-serif;
-    color: red;
+    color:gold;
     text-align: center;
-    background-color: rgba(45, 45, 45, 0.1);
+    background-color:black;
     
 }
 .background-color {
@@ -11,10 +16,15 @@
     
 }
 .edit {
+    float: right;
     border-radius: 100px;
+    height:800px;
+    width:400px;
 }
 .body {
+
     background-color: antiquewhite;
+
 }
 .achieve {
     text-align:left;
@@ -24,18 +34,19 @@
 
 a:link, a:visited{
     text-decoration: none;
-    background-color: green;
-    border: 1px solid brown;
+    background-color:gold;
+    border: 10px solid black;
+    padding: 10px;
     color: black;
     display:block;
     width: 200px;
     text-align: left;
     margin-bottom: 1px;
-    
+    margin-left: 5px;
+    border-radius: 100px;
 }
 a:hover, a:active{
     background-color: red;
-    color:purple;
+    color:whitesmoke;
 
 }
-
