@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: 0.5;
     padding: 0;
     background-color:chocolate;
 }
@@ -17,7 +17,7 @@ body{
 }
 .edit {
     float: right;
-    border-radius: 100px;
+    border-radius: 25% 10%;;
     height:800px;
     width:400px;
 }
@@ -43,7 +43,7 @@ a:link, a:visited{
     text-align: left;
     margin-bottom: 1px;
     margin-left: 5px;
-    border-radius: 100px;
+    border-radius: 10px 100px / 120px;
 }
 a:hover, a:active{
     background-color: red;
